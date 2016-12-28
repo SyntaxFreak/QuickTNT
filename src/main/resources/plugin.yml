@@ -1,0 +1,7 @@
+name: QuickTNT
+main: net.b1naryfr3ak.quicktnt.QuickTNT
+version: 1.0
+author: b1naryfr3ak
+commands:
+   quicktnt:
+      description: Fast crafts TNT.
